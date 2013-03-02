@@ -108,12 +108,22 @@
         android:layout_centerHorizontal="true"
         ></Spinner>
     
+    <Button 
+        android:id="@+id/enter_button"
+    	android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/list_spinner"
+        android:layout_centerHorizontal="true"
+        android:text="@string/enter_button_text"
+        />
+    
+    
     <Button
         android:id="@+id/goToSource_button"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="@string/goToSource_button_text"
-        android:layout_below="@+id/list_spinner"
+        android:layout_below="@+id/enter_button"
         android:layout_centerHorizontal="true"
         ></Button>
     

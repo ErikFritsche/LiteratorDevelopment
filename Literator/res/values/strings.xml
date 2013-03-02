@@ -18,4 +18,9 @@
 <string name="publisher_text">Publisher: </string>
 
 <string name="goToSource_button_text">Watch source online</string>
+<string name="enter_button_text">Submit book to list</string>
+
+<string name="zitierweise">Zitierweise: </string>
+
+
 </resources>
